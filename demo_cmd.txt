@@ -1,2 +1,3 @@
 demo for command prompt
 This line is added on local side
+password : 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  # cpoy it and past it on password section
